@@ -27,13 +27,13 @@ const toggleChecked = () => {
 .tile {
   border: 0.5px solid black;
   box-sizing: border-box;
-  width: 200px;
-  height: 200px;
+  width: 140px;
+  height: 140px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  font-size: 1.8rem; /* Initial font size, adjust as needed */
+  font-size: 1.3rem; /* Initial font size, adjust as needed */
   user-select: none;
   cursor: pointer; /* Add this to indicate it's clickable */
 }
